@@ -31,7 +31,7 @@
       "defaultValue": [
       
        {
-        "principalId": "04411f43-3f19-44de-98f6-d056dc1171d5",
+        "principalId": "288dcb75-c397-4ade-9526-56554d208a71",
         "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
         "principalIdDisplayName": "AAD_ITP-ManagedServices-Reader"
        }

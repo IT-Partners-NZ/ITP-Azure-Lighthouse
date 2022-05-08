@@ -30,7 +30,7 @@
             },
             "defaultValue": [
                 {
-                    "principalId": "04411f43-3f19-44de-98f6-d056dc1171d5",
+                    "principalId": "288dcb75-c397-4ade-9526-56554d208a71",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
                     "principalIdDisplayName": "AAD_ITP-ManagedServices-Reader"
                 },
@@ -52,7 +52,7 @@
                         "multiFactorAuthProvider": "Azure",
                         "maximumActivationDuration": "PT4H"
                     },
-                    "principalId": "62ca60e0-bed6-44be-82cd-ca5613a9fbc3",
+                    "principalId": "23da7840-fae5-44ab-8a52-101d0c334c58",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "AAD_ITP-ManagedServices-Contributor"
  

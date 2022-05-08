@@ -48,8 +48,8 @@ Additionally when elevating into groups with any kind of write privilege (all ex
 
 Name | Description   | Auto-deploy   | IT Partners Azure Managed Services |
 -----| ------------- |--------------- |-------
-| Azure Lighthouse - IT Partners - Subscription Discovery | Grant Read Only access to Microsoft Azure Subscription for IT Partners for Discovery | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/IT-Partners-NZ/ITP-Azure-Lighthouse/main/Client-AzureDiscovery.json?token=GHSAT0AAAAAABQD2424KGGK6ORRBMOMS74EYPYK4BQ) | [Managed IT](https://www.itpartners.co.nz/managed-it-services/#managed-it)
-| Azure Lighthouse - IT Partners - Subscription Onboard |Onboard your Subscription under IT Partners | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/IT-Partners-NZ/ITP-Azure-Lighthouse/main/Client-AzureOnboard.json?token=GHSAT0AAAAAABQD2424KGGK6ORRBMOMS74EYPYK4BQ) | [Managed IT](https://www.itpartners.co.nz/managed-it-services/#managed-it)
+| Azure Lighthouse - IT Partners - Subscription Discovery | Grant Read Only access to Microsoft Azure Subscription for IT Partners for Discovery | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/IT-Partners-NZ/ITP-Azure-Lighthouse/main/Client-AzureDiscovery.json) | [Managed IT](https://www.itpartners.co.nz/managed-it-services/#managed-it)
+| Azure Lighthouse - IT Partners - Subscription Onboard |Onboard your Subscription under IT Partners | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/IT-Partners-NZ/ITP-Azure-Lighthouse/main/Client-AzureOnboard.json) | [Managed IT](https://www.itpartners.co.nz/managed-it-services/#managed-it)
 
 # Remove Access
 

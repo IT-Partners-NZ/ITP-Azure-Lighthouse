@@ -33,7 +33,12 @@
                     "principalId": "04411f43-3f19-44de-98f6-d056dc1171d5",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
                     "principalIdDisplayName": "AAD_ITP-ManagedServices-Reader"
-                }
+                },
+                   {
+           "principalId": "08afa2f6-c1f6-49e5-aa6a-eff6dc49be2e",
+           "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+           "principalIdDisplayName": "Provider Automation Account"
+          }
             ]
         },
         "eligibleAuthorizations": {

@@ -1,4 +1,4 @@
-![IT Partners Limited Logo](img/IT_Partners_Logo.png)
+![IT Partners Limited Logo](IT_Partners_Logo.png)
 
 # Introduction
 

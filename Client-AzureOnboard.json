@@ -52,74 +52,11 @@
                         "multiFactorAuthProvider": "Azure",
                         "maximumActivationDuration": "PT4H"
                     },
-                    "principalId": "9b38f376-5ada-45b2-b410-9a534c5be87c",
-                    "principalIdDisplayName": "ALH - Managed Azure Engineers",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
-                },
-                {
                     "principalId": "62ca60e0-bed6-44be-82cd-ca5613a9fbc3",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
                     "principalIdDisplayName": "AAD_ITP-ManagedServices-Contributor"
-                },
-                {
-                    "principalId": "62ca60e0-bed6-44be-82cd-ca5613a9fbc3",
-                    "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Contributor"
-                },
-                {
-                    "principalId": "62ca60e0-bed6-44be-82cd-ca5613a9fbc3",
-                    "roleDefinitionId": "e40ec5ca-96e0-45a2-b4ff-59039f2c2b59",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Contributor"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "00c29273-979b-4161-815c-10b084fb9324",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "9980e02c-c2be-4d73-94e8-173b1dc7cf3c",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "749f88d5-cbae-40b8-bcfc-e573ddc772fa",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "d3881f73-407a-4167-8283-e981cbba0404",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "5fb5aef8-1081-4b8e-bb16-9d5d0385bab5",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "c7393b34-138c-406f-901b-d8cf2b17e6ae",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "494ae006-db33-4328-bf46-533a6560a3ca",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
-                },
-                {
-                    "principalId": "1ca2938c-6852-4c3a-8330-58d74bfd8baf",
-                    "roleDefinitionId": "e5e2a7ff-d759-4cd2-bb51-3152d37e2eb1",
-                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
+ 
+                
                 }
             ]
         }

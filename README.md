@@ -24,7 +24,8 @@ IT Partners are using privilege access groups to provide access into your enviro
 
 This has the benefit of having a full audit trail of who had access and when, additionally it means the licenses required for PIM (Privilaged Access Management) are assigned within IT Partners own Azure AD Tenant and incurs no cost to the Partner.
 
-Additionally when elevating into groups with any kind of write privilege (all except reader) IT Partner consultants will immediately be subject to MFA.
+Additionally when elevating into groups with any kind of write privilege (all except reader) IT Partner consultants will immediately be subject to MFA and 
+[just in time controls](https://docs.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure?WT.mc_id=AZ-MVP-5004796).
 
 ## Role Assignment Summary Table
 

@@ -50,7 +50,7 @@
                 {
                     "justInTimeAccessPolicy": {
                         "multiFactorAuthProvider": "Azure",
-                        "maximumActivationDuration": "PT4H"
+                        "maximumActivationDuration": "PT8H"
                     },
                     "principalId": "23da7840-fae5-44ab-8a52-101d0c334c58",
                     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",

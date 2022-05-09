@@ -32,7 +32,8 @@ Additionally when elevating into groups with any kind of write privilege (all ex
 | ------------------------------------ | ---------------------------------------- |
 | AAD\_ITP-ManagedServices-Contributor | Contributor                              |
 | AAD\_ITP-ManagedServices-Reader      | Reader                                   |
-
+| AAD\_ITP-ManagedServices-Operator      | Backup Operator                |
+| AAD\_ITP-ManagedServices-Operator      | Virtual Machine Contributor            |
 
 # Deploy to Azure
 

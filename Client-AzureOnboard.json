@@ -64,6 +64,15 @@
                     "principalId": "1a4cc546-fda8-45c5-8e8b-0d743c9095dd",
                     "roleDefinitionId": "9980e02c-c2be-4d73-94e8-173b1dc7cf3c",
                     "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
+                },
+                 {
+                    "justInTimeAccessPolicy": {
+                        "multiFactorAuthProvider": "Azure",
+                        "maximumActivationDuration": "PT8H"
+                    },
+                    "principalId": "1a4cc546-fda8-45c5-8e8b-0d743c9095dd",
+                    "roleDefinitionId": "00c29273-979b-4161-815c-10b084fb9324",
+                    "principalIdDisplayName": "AAD_ITP-ManagedServices-Operator"
                 }
             ]
         }

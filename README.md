@@ -28,21 +28,11 @@ Additionally when elevating into groups with any kind of write privilege (all ex
 
 ## Role Assignment Summary Table
 
-| **Privileged Access Group**                            | Roles                                    |
+| **Privileged Access Group**                            | Roles                  |
 | ------------------------------------ | ---------------------------------------- |
 | AAD\_ITP-ManagedServices-Contributor | Contributor                              |
-| AAD\_ITP-ManagedServices-Contributor | Managed Services Registration assignment |
-| AAD\_ITP-ManagedServices-Contributor | Assign roles to Managed Identities       |
 | AAD\_ITP-ManagedServices-Reader      | Reader                                   |
-| AAD\_ITP-ManagedServices-Operator    | Virtual Machine Contributor              |
-| AAD\_ITP-ManagedServices-Operator    | Backup Operator                          |
-| AAD\_ITP-ManagedServices-Operator    | Reader                                   |
-| AAD\_ITP-ManagedServices-Operator    | Log Analytics Contributor                |
-| AAD\_ITP-ManagedServices-Operator    | Monitoring Contributor                   |
-| AAD\_ITP-ManagedServices-Operator    | Automation Operator                      |
-| AAD\_ITP-ManagedServices-Operator    | Automation Runbook Operator              |
-| AAD\_ITP-ManagedServices-Operator    | Managed Application Operator             |
-| AAD\_ITP-ManagedServices-Operator    | Site Recovery Operator                   |
+
 
 # Deploy to Azure
 

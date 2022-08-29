@@ -33,7 +33,7 @@
        {
         "principalId": "288dcb75-c397-4ade-9526-56554d208a71",
         "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-        "principalIdDisplayName": "AAD_ITP-ManagedServices-Reader"
+        "principalIdDisplayName": "AAD-ITP-Clients-MS-AZ-Reader"
        }
     
       ]
